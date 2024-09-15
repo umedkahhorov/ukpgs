@@ -1,4 +1,5 @@
 # web scraping from NPD wellbore info
+# https://www.sodir.no/en/about-us/open-data/
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
